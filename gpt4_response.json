@@ -1,0 +1,35 @@
+{
+    "thought_on_topic": "For the Wanderlust Adventures logo, the design should embody the spirit of exploration and discovery. Imagining a globe or a map as a central theme could represent the 'world' aspect vividly. Incorporating elements such as a compass, mountains, or paths could further emphasize adventure and exploration. The overall composition should balance these elements while keeping the title and tagline clear and prominent.",
+    "thought_on_components": "The title 'Wanderlust Adventures' should be the focal point, capturing the essence of adventure with a bold and inviting typeface. The tagline 'Discover the world' needs to complement the title, perhaps in a more subdued style, to underline the message of exploration without competing for attention.",
+    "thought_on_composition": "Visualize the title centrally placed, perhaps overlaying a stylized globe or map texture, ensuring it stands out. The tagline could sit below the title, in a smaller font, maintaining balance and hierarchy. The background or emblematic elements like a compass or mountains should support the theme without overwhelming the text.",
+    "Logo_Component": {
+        "logo_descriptions_without_text": "A globe or map texture as the backdrop, with stylized elements like a compass overlay, mountains on the horizon, and a path winding through the landscape.",
+        "logo_description_with_text": "A detailed globe or textured map fills the background, with a compass and mountain silhouette. On top, 'Wanderlust Adventures' in bold, inviting letters, and below, 'Discover the world' in a slighter, more subdued font."
+    },
+    "Text_component_details_LIST": [
+        {
+            "Title": {
+                "text": "Wanderlust Adventures",
+                "font_size": "48",
+                "font_name": "Montserrat",
+                "font_colour": "#FFFFFF",
+                "font_weight": "bold",
+                "font_style": "normal",
+                "thought_on_location": "The title should be directly in the center of the logo, acting as an anchor for the design. This placement ensures it catches the eye immediately, with enough space around it to breathe and stand out against the background imagery.",
+                "location at y-axis": "412"
+            }
+        },
+        {
+            "Tagline": {
+                "text": "Discover the world",
+                "font_size": "24",
+                "font_name": "Lato",
+                "font_colour": "#CCCCCC",
+                "font_weight": "normal",
+                "font_style": "italic",
+                "thought_on_location": "Placing the tagline directly below the title provides a visual hierarchy, allowing the viewer's eye to flow naturally from the main message to the supporting message, reinforcing the theme of discovery.",
+                "location at y-axis": "472"
+            }
+        }
+    ]
+}
